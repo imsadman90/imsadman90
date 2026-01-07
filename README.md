@@ -1,78 +1,74 @@
-![Banner] (https://i.ibb.co/Kxt7pn4g/profilephoto.png)
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/Kxt7pn4g/profilephoto.png" alt="Banner" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm [Sadman Sami]</h1>
+<h1 align="center">Hi 👋, I'm Sadman Sami</h1>
 <h3 align="center">Junior MERN Stack Developer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsadman90&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imsadman90&label=Profile+views&color=0e75b6&style=flat" alt="imsadman90" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imsadman90" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/iamsadmansami" target="blank">
+    <img src="https://img.shields.io/twitter/follow/iamsadmansami?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a passionate junior developer specializing in the MERN stack with a strong focus on creating responsive and user-friendly web applications. I love turning ideas into reality through clean code and modern design principles. Currently expanding my skills in full-stack development and exploring new technologies to build innovative solutions.
-
----
-
-## 🚀 Current Activities
-
-- 🔭 I'm currently working on my **portfolio website**
-- 🌱 I'm exploring **Next.js**
-- 💡 I'm learning **Advanced React Patterns** and **State Management**
-- 👯 I'm open to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
+### About Me
+- 🔭 Currently working on **my Portfolio Website**  
+- 🌱 Currently learning **Next.js**  
+- 👯 Looking to collaborate on **open source projects**  
+- 🤝 Looking for help with **learning system design**  
+- 💬 Ask me about **React, Node.js, Web Development**  
 - 📫 Reach me at **sadmansami473@gmail.com**
-- 📍 Location: **Uttara, Dhaka, Bangladesh**
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Connect with Me
+<p align="left">
+  <a href="https://github.com/imsadman90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sadman-sami-418a4535a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/iamsadmansami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://twitter.com/iamsadmansami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
 
 ---
 
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sadman-sami-418a4535a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/iamsadmansami" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:sadmansami473@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+### Languages and Tools
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" /></a>
+  <a href="https://cdn.simpleicons.org/framer" target="_blank"><img src="https://cdn.simpleicons.org/framer" alt="Framer" width="40" height="40" /></a>
 </p>
 
+---
 
-## 💼 Featured Projects
-will be add later
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsadman90&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imsadman90&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  ⭐️ From [imsadman90](https://github.com/imsadman90)
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=imsadman90" alt="GitHub Streak" />
 </p>
