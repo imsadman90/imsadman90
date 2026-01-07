@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300/0D1117/58A6FF?text=Your+Name+|+MERN+Stack+Developer)
+![Banner] (https://i.ibb.co/Kxt7pn4g/profilephoto.png)
 
 <h1 align="center">Hi 👋, I'm [Sadman Sami]</h1>
 <h3 align="center">Junior MERN Stack Developer | Frontend Developer</h3>
