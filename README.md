@@ -49,10 +49,8 @@ I'm always eager to learn, improve, and collaborate on meaningful projects that 
   <img src="https://github-profile-trophy.vercel.app/?username=imsadman90&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-### ✍️ Random Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+ Crafting modern web experiences, one component at a time
 </p>
 
 ### 🔝 Top Contributed Repositories
