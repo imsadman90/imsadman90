@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/zTwMNhBQ/Neutral-Modern-Web-Developer-Linked-In-Banner-20260108-121948-0000.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sadman Sami</h1>
