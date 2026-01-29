@@ -3,12 +3,12 @@
   <img src="https://i.ibb.co/zTwMNhBQ/Neutral-Modern-Web-Developer-Linked-In-Banner-20260108-121948-0000.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sadman Sami</h1>
+<h1 align="center">Hi , I'm Sadman Sami</h1>
 <h3 align="center">Junior Frontend Developer | MERN Stack Enthusiast</h3>
 
 ---
 
-## 📍 Contact Information
+##  Contact Information
 
 - **Location:** Dhaka, Bangladesh  
 - **Email:** sadmansami473@gmail.com  
@@ -16,22 +16,22 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I am a passionate Junior Frontend Developer with around 6 months of hands-on experience, currently pursuing my B.Ed (Hons) at the Institute of Education and Research (IER), University of Dhaka. I enjoy building responsive, user-friendly web interfaces and continuously improving my skills in modern web technologies. I am highly motivated to learn, collaborate, and contribute to impactful real-world projects.
 
 ---
 
-## 🚀 Current Activities
+##  Current Activities
 
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🧩 Building responsive frontend projects using **React & Tailwind CSS**  
-- 💼 Working on academic and personal **client-side web applications**  
-- 📚 Improving UI/UX design and performance optimization skills  
+-  Exploring **Next.js** and modern React patterns  
+-  Building responsive frontend projects using **React & Tailwind CSS**  
+-  Working on academic and personal **client-side web applications**  
+-  Improving UI/UX design and performance optimization skills  
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadman-sami-418a4535a)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamsadmansami)
@@ -39,7 +39,7 @@ I am a passionate Junior Frontend Developer with around 6 months of hands-on exp
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,7 +62,7 @@ I am a passionate Junior Frontend Developer with around 6 months of hands-on exp
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imsadman90&show_icons=true" />
@@ -79,5 +79,5 @@ I am a passionate Junior Frontend Developer with around 6 months of hands-on exp
 ---
 
 <p align="center">
-  Crafting modern web experiences, one component at a time 🚀
+  Crafting modern web experiences, one component at a time 
 </p>
