@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/r2hmMVJV/sadman-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/xKN81Vbz/Screenshot-2026-02-17-112749.png" />
 </p>
 
 <h1 align="center">Hi , I'm Sadman Sami</h1>
