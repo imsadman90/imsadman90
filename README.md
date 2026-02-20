@@ -18,7 +18,7 @@
 
 ##  About Me
 
-I am a passionate Junior Frontend Developer with around 8 months of hands-on experience, currently pursuing my B.Ed (Hons) at the Institute of Education and Research (IER), University of Dhaka. I enjoy building responsive, user-friendly web interfaces and continuously improving my skills in modern web technologies. I am highly motivated to learn, collaborate, and contribute to impactful real-world projects.
+I am a passionate Frontend & MERN Stack Developer with around 8 months of hands-on experience, currently pursuing my B.Ed (Hons) at the Institute of Education and Research (IER), University of Dhaka. I enjoy building responsive, user-friendly web interfaces and continuously improving my skills in modern web technologies. I am highly motivated to learn, collaborate, and contribute to impactful real-world projects.
 
 ---
 
