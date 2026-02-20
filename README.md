@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi , I'm Sadman Sami</h1>
-<h3 align="center">Junior Frontend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast</h3>
 
 ---
 
@@ -18,14 +18,14 @@
 
 ##  About Me
 
-I am a passionate Junior Frontend Developer with around 6 months of hands-on experience, currently pursuing my B.Ed (Hons) at the Institute of Education and Research (IER), University of Dhaka. I enjoy building responsive, user-friendly web interfaces and continuously improving my skills in modern web technologies. I am highly motivated to learn, collaborate, and contribute to impactful real-world projects.
+I am a passionate Junior Frontend Developer with around 8 months of hands-on experience, currently pursuing my B.Ed (Hons) at the Institute of Education and Research (IER), University of Dhaka. I enjoy building responsive, user-friendly web interfaces and continuously improving my skills in modern web technologies. I am highly motivated to learn, collaborate, and contribute to impactful real-world projects.
 
 ---
 
 ##  Current Activities
 
--  Exploring **Next.js** and modern React patterns  
--  Building responsive frontend projects using **React & Tailwind CSS**  
+-  Exploring **Typescript**  
+-  Building responsive frontend projects using **Next.js & Tailwind CSS**  
 -  Working on academic and personal **client-side web applications**  
 -  Improving UI/UX design and performance optimization skills  
 
