@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png? type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sadman%20Sami&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20MERN%20Stack%20Enthusiast&descAlignY=62&descSize=18&descColor=a78bfa&animation=fadeIn"
+    src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png"
     alt="Sadman Sami — Frontend Developer"
   />
 </div>
@@ -9,10 +9,7 @@
 <table>
   <tr>
     <td width="230" valign="top" align="center">
-      <img src="./assets/profile.jpg" width="210" alt="Sadman Sami" />
-      <!-- If the image doesn't render, use this instead (set main/master to your default branch):
       <img src="https://raw.githubusercontent.com/imsadman90/imsadman90/main/assets/profile.jpg" width="210" alt="Sadman Sami" />
-      -->
     </td>
     <td valign="top">
       <h2>👋 Hi, I'm Sadman Sami</h2>
@@ -89,7 +86,5 @@
  
 <div align="center">
   <i>"Crafting modern web experiences — one component at a time."</i>
- 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" alt="" />
 </div>
- 
