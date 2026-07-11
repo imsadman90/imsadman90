@@ -1,15 +1,7 @@
-<div align="center">
-  <img
-    width="100%"
-    src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png"
-    alt="Sadman Sami — Frontend Developer"
-  />
-</div>
-<br/>
 <table>
   <tr>
     <td width="230" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/imsadman90/imsadman90/main/assets/profile.jpg" width="210" alt="Sadman Sami" />
+      <img src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png" width="210" alt="Sadman Sami" />
     </td>
     <td valign="top">
       <h2>👋 Hi, I'm Sadman Sami</h2>
@@ -31,8 +23,7 @@
     </td>
   </tr>
 </table>
----
- 
+<hr />
 ## 🧑‍💻 About Me
  
 - 🔭 &nbsp;Currently building **client-side web applications with Next.js**
@@ -40,8 +31,7 @@
 - 🎯 &nbsp;Focused on shipping **impactful products people love to use**
 - 💬 &nbsp;Ask me about **React, the MERN stack, and clean UI engineering**
 - 📫 &nbsp;Reach me at **sadmansami473@gmail.com**
----
- 
+<hr />
 ## 🛠️ Tech Stack
  
 **Frontend**
@@ -68,8 +58,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  
----
- 
+<hr />
 ## 📊 GitHub Analytics
  
 <div align="center">
@@ -82,8 +71,7 @@
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsadman90&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
----
- 
+<hr />
 <div align="center">
   <i>"Crafting modern web experiences — one component at a time."</i>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" alt="" />
