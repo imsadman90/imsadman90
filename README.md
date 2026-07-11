@@ -4,7 +4,7 @@
       <img src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png" width="210" alt="Sadman Sami" />
     </td>
     <td valign="top">
-      <h2>👋 Hi, I'm Sadman Sami</h2>
+      <h2> Hi, I'm Sadman Sami</h2>
       <p>
         <b>Frontend &amp; MERN Stack Developer</b> based in <b>Dhaka, Bangladesh</b>.
         I turn ideas into responsive, accessible, and performant web experiences —
@@ -24,17 +24,17 @@
   </tr>
 </table>
 <hr />
-## 🧑‍💻 About Me
+## ABOUT ME
  
-- 🔭 &nbsp;Currently building **client-side web applications with Next.js**
-- 🌱 &nbsp;Leveling up in **TypeScript** and **UI/UX performance optimization**
-- 🎯 &nbsp;Focused on shipping **impactful products people love to use**
-- 💬 &nbsp;Ask me about **React, the MERN stack, and clean UI engineering**
-- 📫 &nbsp;Reach me at **sadmansami473@gmail.com**
+- &nbsp;Currently building **client-side web applications with Next.js**
+- &nbsp;Leveling up in **TypeScript** and **UI/UX performance optimization**
+- &nbsp;Focused on shipping **impactful products people love to use**
+- &nbsp;Ask me about **React, the MERN stack, and clean UI engineering**
+- &nbsp;Reach me at **sadmansami473@gmail.com**
 <hr />
-## 🛠️ Tech Stack
+## TECH STACK
  
-**Frontend**
+**FRONTEND**
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
  
-**Backend &amp; Database**
+**BACKEND &amp; DATABASE**
  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
@@ -59,7 +59,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  
 <hr />
-## 📊 GitHub Analytics
+## GITHUB ANALYTICS
  
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=imsadman90&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
@@ -74,5 +74,4 @@
 <hr />
 <div align="center">
   <i>"Crafting modern web experiences — one component at a time."</i>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" alt="" />
 </div>
