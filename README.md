@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sadman%20Sami&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20MERN%20Stack%20Enthusiast&descAlignY=62&descSize=18&descColor=a78bfa&animation=fadeIn"
+    src="https://i.ibb.co/cXDznf1C/Chat-GPT-Image-Jul-11-2026-05-14-19-PM.png? type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sadman%20Sami&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20MERN%20Stack%20Enthusiast&descAlignY=62&descSize=18&descColor=a78bfa&animation=fadeIn"
     alt="Sadman Sami — Frontend Developer"
   />
 </div>
